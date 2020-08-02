@@ -1,2 +1,2 @@
 # deeplearning.ai
-Repository of assignments for deeplearning.ai specializaton.
+Repository of assignments for deeplearning.ai specialization.
